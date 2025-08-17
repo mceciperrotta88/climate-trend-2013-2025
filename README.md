@@ -1,18 +1,20 @@
-# climate-trend-2013-2025
 
-# 🌡️ Aumento de la Temperatura Global (2013–2025)
+Este proyecto analiza la evolución de la anomalía de temperatura global entre los años 2013 y 2025. Utiliza datos históricos y recientes para visualizar el impacto del cambio climático a través de un gráfico de líneas. El objetivo es ofrecer una representación clara de cómo han cambiado las temperaturas promedio del planeta en la última década.
 
-Este proyecto analiza el calentamiento global en la última década, con énfasis en el récord de 2025.
-Utilizo datos oficiales para visualizar tendencias, causas y proyecciones futuras.
+La motivación para este análisis surge del cambio climático presenciado en España, donde en los últimos años se han registrado temperaturas extremas que superan los 48 °C en algunas regiones del país. Estos eventos reflejan una tendencia preocupante que no solo afecta a España, sino al mundo entero.
+
+Este proyecto nace de la necesidad de visualizar y entender mejor esta tendencia global, tomando como referencia la experiencia local. A través del análisis de datos y la creación de gráficos, se busca generar conciencia sobre la urgencia de actuar frente al calentamiento global.
 
 ##  Datos clave
-- Temperatura en enero 2025: +1.75 °C
-- Probabilidad de superar +1.5 °C: 86 %
-- Ártico: aumento de +2.4 °C en invierno
-- Impactos: lluvias extremas, sequías, derretimiento de glaciares
 
-##  Dataset
-- Fuente: [Copernicus y OMM](https://www.eluniversal.com.mx/mundo/2025-arranca-con-el-enero-mas-calido-registrado-hasta-ahora-temperatura-aumento-175-grados-segun-observatorio-copernicus)
+- 🌡️ La anomalía de temperatura global ha aumentado de **0.65 °C en 2013** a **1.75 °C en 2025**, según los datos proyectados.
+- 🔥 En España, se han registrado temperaturas superiores a **48 °C**, especialmente en regiones del sur como Andalucía.
+- 📈 El año **2023** marcó un salto notable con una anomalía de **1.43 °C**, seguido por un incremento acelerado en 2024 y 2025.
+- 🌍 Este aumento sostenido refleja una tendencia global que coincide con el incremento de emisiones de gases de efecto invernadero.
+- 🚨 Las olas de calor extremas, incendios forestales y sequías prolongadas se han vuelto más frecuentes en Europa y otras partes del mundo.
+- 🌲 En España, el calor extremo ha contribuido a un aumento significativo de **incendios forestales**, afectando miles de hectáreas y poniendo en riesgo ecosistemas y comunidades rurales.
+-  En el Ártico aumento de +2.4 °C en invierno
+- 🌍 Impactos del aumento de las temperaturas: sequías y derretimiento de glaciares
 
 ##  Herramientas
 - Python (Pandas, Matplotlib, Seaborn)
