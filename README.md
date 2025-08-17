@@ -21,7 +21,9 @@ Utilizo datos oficiales para visualizar tendencias, causas y proyecciones futura
 
 Este gráfico muestra la evolución de la anomalía de temperatura global desde el año 2013 hasta el 2025. Los datos reflejan un aumento sostenido en las temperaturas promedio del planeta, lo que evidencia el impacto del cambio climático en la última década:
 
-[Tendencia de temperatura global](global-temperature-trend.png)
+[Gráfico de líneas: Tendencia de temperatura global](grafico-lineas-temperatura.jpg)
+
+
 
 
 ## 👩‍💻 Autora
