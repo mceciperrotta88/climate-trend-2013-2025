@@ -29,4 +29,4 @@ Este gráfico muestra la evolución de la anomalía de temperatura global desde 
 
 
 ## 👩‍💻 Autora
-Maria Cecilia – Estudiante Científica de datos con enfoque ambiental
+Maria Cecilia – Estudiante Científica de datos
