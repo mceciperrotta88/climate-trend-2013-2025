@@ -1,5 +1,5 @@
 
-Este proyecto analiza la evolución de la anomalía de temperatura global entre los años 2013 y 2025. Utiliza datos históricos y recientes para visualizar el impacto del cambio climático a través de un gráfico de líneas. El objetivo es ofrecer una representación clara de cómo han cambiado las temperaturas promedio del planeta en la última década.
+Este proyecto analiza la evolución de la anomalía de temperatura global entre los años 2013 y 2025. Utilize datos históricos y recientes para visualizar el impacto del cambio climático a través de un gráfico de líneas. El objetivo es ofrecer una representación clara de cómo han cambiado las temperaturas promedio del planeta en la última década.
 
 La motivación para este análisis surge del cambio climático presenciado en España, donde en los últimos años se han registrado temperaturas extremas que superan los 48 °C en algunas regiones del país. Estos eventos reflejan una tendencia preocupante que no solo afecta a España, sino al mundo entero.
 
