@@ -19,6 +19,9 @@ Este proyecto nace de la necesidad de visualizar y entender mejor esta tendencia
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
   
+Este gráfico muestra la evolución de la anomalía de temperatura global desde el año 2013 hasta el 2025. Los datos reflejan un aumento sostenido en las temperaturas promedio del planeta, lo que evidencia el impacto del cambio climático en la última década:
+
+[Gráfico de líneas: Tendencia de temperatura global](grafico-lineas-temperatura.jpg)
 
 
 
