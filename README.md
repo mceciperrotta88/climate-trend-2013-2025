@@ -24,7 +24,7 @@ Este proyecto nace de la necesidad de visualizar y entender mejor esta tendencia
 
 Este gráfico muestra la anomalía de temperatura global entre 2013 y 2025, como contexto para el análisis de salud pública:
 
-![Gráfico de líneas de temperatura global](Graficoedlineas.png)
+![Gráfico de líneas de temperatura global](Graficodelineas.png)
 
 
 
